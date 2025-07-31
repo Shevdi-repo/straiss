@@ -1,8 +1,6 @@
-flask
-flask-cors
-python-dotenv
-opencv-python
-numpy
+streamlit
+opencv-python-headless
 deepface
-google-generativeai
-gunicorn
+numpy
+pandas
+Pillow
